@@ -1,6 +1,6 @@
 {
   "name": "blockbite-icons",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "icons blockbite plugin and blockbite theme",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,6 @@
     "@babel/preset-react": "^7.22.15"
   },
   "dependencies": {
-    "@babel/core": "^7.23.0",
-    "fs": "^0.0.1-security"
+    "@babel/core": "^7.23.0"
   }
 }

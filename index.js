@@ -1,15 +1,62 @@
-const fs = require('fs');
+// Import all the icon modules
+import * as icons from './lib';
 
-// Get all the files in the current directory
-const files = fs.readdirSync(__dirname);
-
-// Export each file as a named export
-files.forEach((file) => {
-  // Exclude the index.js file itself
-  if (file !== 'index.js') {
-    const iconName = file.replace('.js', '');
-    module.exports[iconName] = require(`./${file}`).default;
-  }
-});
-
-
+// Export each icon as a named export
+export const {
+  bAlignXbetween,
+  bAlignXcenter,
+  bAlignXend,
+  bAlignXstart,
+  bAlignYbetween,
+  bAlignYcenter,
+  bAlignYend,
+  bAlignYstart,
+  bAll,
+  bAround,
+  bBottom,
+  bBottomLeft,
+  bBottomRight,
+  bButton,
+  bClose,
+  bColumns,
+  bColumnsreversed,
+  bCounter,
+  bDesigner,
+  bDesignerSmall,
+  bDesktop,
+  bGrid,
+  bGroup,
+  bHeading,
+  bHeight,
+  bHorizontal,
+  bIcon,
+  bImage,
+  bImageSmall,
+  bLeft,
+  bLink,
+  bMain,
+  bMin,
+  bMobile,
+  bPlus,
+  bPresetflex1col,
+  bPresetflex2col,
+  bPresetflex2colFull,
+  bPresetflex3col,
+  bPresetflexStack,
+  bRight,
+  bRotateLeft,
+  bRotateRight,
+  bRows,
+  bRowsreversed,
+  bScale,
+  bScaleX,
+  bScaleY,
+  bSection,
+  bTablet,
+  bTop,
+  bTopLeft,
+  bTopRight,
+  bVertical,
+  bWidth
+    // Add other icons here
+} = icons;
