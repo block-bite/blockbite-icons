@@ -1,11 +1,19 @@
 {
   "name": "blockbite-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "icons blockbite plugin and blockbite theme",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel jsx --out-dir lib"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/preset-react": "^7.22.15"
+  },
+  "dependencies": {
+    "@babel/core": "^7.23.0",
+    "fs": "^0.0.1-security"
+  }
 }
