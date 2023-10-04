@@ -1,6 +1,6 @@
 {
   "name": "blockbite-icons",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "icons blockbite plugin and blockbite theme",
   "main": "index.js",
   "scripts": {
