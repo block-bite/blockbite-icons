@@ -1,1 +1,1 @@
-export { default as bAlignXbetween } from './bAlignXbetween';
+export { default as BiconTop } from './BiconTop';
