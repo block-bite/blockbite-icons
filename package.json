@@ -1,18 +1,9 @@
 {
   "name": "blockbite-icons",
   "version": "3.0.6",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "index.js",
+  "module": "index.js",
   "peerDependencies": {
     "react": "^16.0.0"
-  },
-  "scripts": {
-    "build": "babel src --out-dir dist"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
-    "@babel/preset-react": "^7.0.0"
   }
 }
