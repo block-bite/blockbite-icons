@@ -16,12 +16,12 @@ const BiconPresetflexStack = props => /*#__PURE__*/React.createElement("svg", _e
   y: 8,
   width: 46,
   height: 11,
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("rect", {
   x: 7,
   y: 22,
   width: 46,
   height: 11,
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconPresetflexStack;

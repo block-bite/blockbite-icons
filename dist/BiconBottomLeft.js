@@ -12,10 +12,10 @@ const BiconBottomLeft = props => /*#__PURE__*/React.createElement("svg", _extend
   y1: 20.5858,
   x2: 24.5858,
   y2: 4.58579,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }), /*#__PURE__*/React.createElement("path", {
   d: "M3 13L15 25H3V13Z",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconBottomLeft;

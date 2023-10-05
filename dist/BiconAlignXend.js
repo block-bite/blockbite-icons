@@ -12,7 +12,7 @@ const BiconAlignXend = props => /*#__PURE__*/React.createElement("svg", _extends
   y1: 14,
   x2: 25,
   y2: 14,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4,
   strokeLinecap: "square"
 }), /*#__PURE__*/React.createElement("rect", {
@@ -21,6 +21,6 @@ const BiconAlignXend = props => /*#__PURE__*/React.createElement("svg", _extends
   width: 8,
   height: 18,
   transform: "rotate(-180 27 23)",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconAlignXend;

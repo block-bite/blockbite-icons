@@ -10,7 +10,7 @@ const BiconGrid = props => /*#__PURE__*/React.createElement("svg", _extends({
 }, props), /*#__PURE__*/React.createElement("rect", {
   width: 50,
   height: 50,
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("rect", {
   x: 9,
   y: 10,

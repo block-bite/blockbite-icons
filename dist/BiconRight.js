@@ -12,10 +12,10 @@ const BiconRight = props => /*#__PURE__*/React.createElement("svg", _extends({
   y1: 14,
   x2: 4,
   y2: 14,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }), /*#__PURE__*/React.createElement("path", {
   d: "M24 14L16 21L16 7L24 14Z",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconRight;

@@ -11,9 +11,9 @@ const BiconAround = (props) => (
     {...props}
   >
     <g clipPath="url(#clip0_283_139)">
-      <path d="M5 14V23H23V5H14" stroke="black" strokeWidth={3} />
-      <path d="M8 4.33013L14 -2.62268e-07L14 8L8 4.33013Z" fill="black" />
-      <path d="M3.66987 8L8 14L-2.62268e-07 14L3.66987 8Z" fill="black" />
+      <path d="M5 14V23H23V5H14" stroke="currentColor" strokeWidth={3} />
+      <path d="M8 4.33013L14 -2.62268e-07L14 8L8 4.33013Z" fill="currentColor" />
+      <path d="M3.66987 8L8 14L-2.62268e-07 14L3.66987 8Z" fill="currentColor" />
     </g>
     <defs>
       <clipPath id="clip0_283_139">

@@ -12,13 +12,13 @@ const BiconVertical = props => /*#__PURE__*/React.createElement("svg", _extends(
   y1: 8,
   x2: 14,
   y2: 22,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }), /*#__PURE__*/React.createElement("path", {
   d: "M14 0L21 8H7L14 0Z",
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("path", {
   d: "M14 28L7 20L21 20L14 28Z",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconVertical;

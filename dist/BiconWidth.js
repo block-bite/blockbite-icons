@@ -12,21 +12,21 @@ const BiconWidth = props => /*#__PURE__*/React.createElement("svg", _extends({
   y1: 14,
   x2: 24,
   y2: 14,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }), /*#__PURE__*/React.createElement("line", {
   x1: 2,
   y1: 8,
   x2: 2,
   y2: 20,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }), /*#__PURE__*/React.createElement("line", {
   x1: 26,
   y1: 8,
   x2: 26,
   y2: 20,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }));
 export default BiconWidth;

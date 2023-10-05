@@ -10,7 +10,7 @@ const BiconDesignerSmall = (props) => (
     role="img"
     {...props}
   >
-    <rect width={28} height={28} fill="black" />
+    <rect width={28} height={28} fill="currentColor" />
     <g clipPath="url(#clip0_283_129)">
       <path d="M9 4V14C14.5231 14 19 9.52307 19 4H9Z" fill="white" />
     </g>

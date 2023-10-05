@@ -15,7 +15,7 @@ const BiconClose = (props) => (
       y1={5.41421}
       x2={5.41421}
       y2={22.4142}
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
     />
     <line
@@ -23,7 +23,7 @@ const BiconClose = (props) => (
       x2={24.0416}
       y2={-2}
       transform="matrix(0.707107 0.707107 0.707107 -0.707107 7 4)"
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
     />
   </svg>

@@ -12,7 +12,7 @@ const BiconAlignYbetween = props => /*#__PURE__*/React.createElement("svg", _ext
   y1: 25,
   x2: 14,
   y2: 3,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4,
   strokeLinecap: "square"
 }), /*#__PURE__*/React.createElement("rect", {
@@ -21,13 +21,13 @@ const BiconAlignYbetween = props => /*#__PURE__*/React.createElement("svg", _ext
   width: 7,
   height: 18,
   transform: "rotate(90 23 1)",
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("rect", {
   x: 23,
   y: 20,
   width: 7,
   height: 18,
   transform: "rotate(90 23 20)",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconAlignYbetween;

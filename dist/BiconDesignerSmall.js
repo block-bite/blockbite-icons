@@ -10,7 +10,7 @@ const BiconDesignerSmall = props => /*#__PURE__*/React.createElement("svg", _ext
 }, props), /*#__PURE__*/React.createElement("rect", {
   width: 28,
   height: 28,
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("g", {
   clipPath: "url(#clip0_283_129)"
 }, /*#__PURE__*/React.createElement("path", {

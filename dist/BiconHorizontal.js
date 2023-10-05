@@ -14,14 +14,14 @@ const BiconHorizontal = props => /*#__PURE__*/React.createElement("svg", _extend
   y1: 14,
   x2: 6,
   y2: 14,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }), /*#__PURE__*/React.createElement("path", {
   d: "M28 14L20 21L20 7.00001L28 14Z",
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("path", {
   d: "M9.17941e-07 14L8 6.99999L8 21L9.17941e-07 14Z",
-  fill: "black"
+  fill: "currentColor"
 })), /*#__PURE__*/React.createElement("defs", null, /*#__PURE__*/React.createElement("clipPath", {
   id: "clip0_283_152"
 }, /*#__PURE__*/React.createElement("rect", {
