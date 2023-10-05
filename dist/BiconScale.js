@@ -9,15 +9,15 @@ const BiconScale = props => /*#__PURE__*/React.createElement("svg", _extends({
   role: "img"
 }, props), /*#__PURE__*/React.createElement("path", {
   d: "M3 11L3 3L11 3L3 11Z",
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("path", {
   d: "M15 3L23 3L23 11L15 3Z",
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("path", {
   d: "M23 15L23 23L15 23L23 15Z",
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("path", {
   d: "M11 23L3 23L3 15L11 23Z",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconScale;

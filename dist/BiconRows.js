@@ -13,13 +13,13 @@ const BiconRows = props => /*#__PURE__*/React.createElement("svg", _extends({
   width: 8,
   height: 20,
   transform: "rotate(90 24 4)",
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("rect", {
   x: 24,
   y: 16,
   width: 8,
   height: 20,
   transform: "rotate(90 24 16)",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconRows;

@@ -12,12 +12,12 @@ const BiconColumns = props => /*#__PURE__*/React.createElement("svg", _extends({
   y: 4,
   width: 8,
   height: 20,
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("rect", {
   x: 17,
   y: 4,
   width: 8,
   height: 20,
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconColumns;

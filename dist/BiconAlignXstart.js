@@ -12,7 +12,7 @@ const BiconAlignXstart = props => /*#__PURE__*/React.createElement("svg", _exten
   y1: 14,
   x2: 3,
   y2: 14,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4,
   strokeLinecap: "square"
 }), /*#__PURE__*/React.createElement("rect", {
@@ -20,6 +20,6 @@ const BiconAlignXstart = props => /*#__PURE__*/React.createElement("svg", _exten
   y: 5,
   width: 8,
   height: 18,
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconAlignXstart;

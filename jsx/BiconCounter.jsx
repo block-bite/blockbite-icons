@@ -10,7 +10,7 @@ const BiconCounter = (props) => (
     role="img"
     {...props}
   >
-    <rect width={50} height={50} fill="black" />
+    <rect width={50} height={50} fill="currentColor" />
     <path
       d="M17.2102 18.3636L15.2784 30H12.8182L14.3636 20.6989H14.2955L11.3523 22.3693L11.7159 20.1875L14.8977 18.3636H17.2102Z"
       fill="#F5F5F5"

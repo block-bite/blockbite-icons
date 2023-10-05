@@ -12,7 +12,7 @@ const BiconMin = props => /*#__PURE__*/React.createElement("svg", _extends({
   y1: 13.8995,
   x2: 2,
   y2: 13.8995,
-  stroke: "black",
+  stroke: "currentColor",
   strokeWidth: 4
 }));
 export default BiconMin;

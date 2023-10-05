@@ -15,10 +15,10 @@ const BiconTopLeft = (props) => (
       y1={7.58579}
       x2={24.4142}
       y2={23.5858}
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
     />
-    <path d="M16 3L4 15L4 3L16 3Z" fill="black" />
+    <path d="M16 3L4 15L4 3L16 3Z" fill="currentColor" />
   </svg>
 );
 

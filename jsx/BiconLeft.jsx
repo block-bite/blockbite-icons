@@ -10,8 +10,8 @@ const BiconLeft = (props) => (
     role="img"
     {...props}
   >
-    <line x1={9} y1={14} x2={23} y2={14} stroke="black" strokeWidth={4} />
-    <path d="M3 14L11 7L11 21L3 14Z" fill="black" />
+    <line x1={9} y1={14} x2={23} y2={14} stroke="currentColor" strokeWidth={4} />
+    <path d="M3 14L11 7L11 21L3 14Z" fill="currentColor" />
   </svg>
 );
 

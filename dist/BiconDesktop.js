@@ -12,7 +12,7 @@ const BiconDesktop = props => /*#__PURE__*/React.createElement("svg", _extends({
   y: 22,
   width: 8,
   height: 3,
-  fill: "black"
+  fill: "currentColor"
 }), /*#__PURE__*/React.createElement("rect", {
   x: 26,
   y: 4,
@@ -20,6 +20,6 @@ const BiconDesktop = props => /*#__PURE__*/React.createElement("svg", _extends({
   height: 24,
   rx: 2,
   transform: "rotate(90 26 4)",
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconDesktop;

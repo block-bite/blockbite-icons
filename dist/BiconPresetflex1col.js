@@ -16,6 +16,6 @@ const BiconPresetflex1col = props => /*#__PURE__*/React.createElement("svg", _ex
   y: 7,
   width: 44,
   height: 27,
-  fill: "black"
+  fill: "currentColor"
 }));
 export default BiconPresetflex1col;
