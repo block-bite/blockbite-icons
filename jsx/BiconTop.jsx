@@ -10,7 +10,14 @@ const BiconTop = (props) => (
     role="img"
     {...props}
   >
-    <line x1={14} y1={9} x2={14} y2={23} stroke="currentColor" strokeWidth={4} />
+    <line
+      x1={14}
+      y1={9}
+      x2={14}
+      y2={23}
+      stroke="currentColor"
+      strokeWidth={4}
+    />
     <path d="M14 3L21 11H7L14 3Z" fill="currentColor" />
   </svg>
 );
