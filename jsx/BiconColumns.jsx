@@ -10,8 +10,8 @@ const BiconColumns = (props) => (
     role="img"
     {...props}
   >
-    <rect x={4} y={4} width={8} height={20} fill="currentColor" />
-    <rect x={17} y={4} width={8} height={20} fill="currentColor" />
+    <rect x={4} y={4} width={8} height={20} fill="black" />
+    <rect x={17} y={4} width={8} height={20} fill="black" />
   </svg>
 );
 
