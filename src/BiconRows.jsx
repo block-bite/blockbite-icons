@@ -16,7 +16,7 @@ const BiconRows = (props) => (
       width={8}
       height={20}
       transform="rotate(90 24 4)"
-      fill="currentColor"
+      fill="black"
     />
     <rect
       x={24}
@@ -24,7 +24,7 @@ const BiconRows = (props) => (
       width={8}
       height={20}
       transform="rotate(90 24 16)"
-      fill="currentColor"
+      fill="black"
     />
   </svg>
 );

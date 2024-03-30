@@ -11,7 +11,7 @@ const BiconPresetflex1col = (props) => (
     {...props}
   >
     <rect width={60} height={40} fill="white" />
-    <rect x={7} y={7} width={44} height={27} fill="currentColor" />
+    <rect x={7} y={7} width={44} height={27} fill="black" />
   </svg>
 );
 
