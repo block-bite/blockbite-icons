@@ -15,7 +15,7 @@ const BiconMin = (props) => (
       y1={13.8995}
       x2={2}
       y2={13.8995}
-      stroke="currentColor"
+      stroke="black"
       strokeWidth={4}
     />
   </svg>
