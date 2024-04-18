@@ -201,6 +201,12 @@ Object.defineProperty(exports, "BiconLink", {
     return _BiconLink["default"];
   }
 });
+Object.defineProperty(exports, "BiconLogo", {
+  enumerable: true,
+  get: function get() {
+    return _BiconLogo["default"];
+  }
+});
 Object.defineProperty(exports, "BiconMain", {
   enumerable: true,
   get: function get() {
@@ -379,6 +385,7 @@ var _BiconImage = _interopRequireDefault(require("./BiconImage"));
 var _BiconImageSmall = _interopRequireDefault(require("./BiconImageSmall"));
 var _BiconLeft = _interopRequireDefault(require("./BiconLeft"));
 var _BiconLink = _interopRequireDefault(require("./BiconLink"));
+var _BiconLogo = _interopRequireDefault(require("./BiconLogo"));
 var _BiconMain = _interopRequireDefault(require("./BiconMain"));
 var _BiconMin = _interopRequireDefault(require("./BiconMin"));
 var _BiconMobile = _interopRequireDefault(require("./BiconMobile"));
