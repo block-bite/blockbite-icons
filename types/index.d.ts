@@ -1,4 +1,4 @@
-declare module 'blockbite-icons' {
+declare module "blockbite-icons" {
   export function Accessibility(): JSX.Element;
   export function ActivityLog(): JSX.Element;
   export function AlignBaseline(): JSX.Element;
@@ -47,6 +47,8 @@ declare module 'blockbite-icons' {
   export function BiconDesigner(): JSX.Element;
   export function BiconDesignerSmall(): JSX.Element;
   export function BiconDesktop(): JSX.Element;
+  export function BiconDraggableBlock(): JSX.Element;
+  export function BiconDraggableSurface(): JSX.Element;
   export function BiconGrid(): JSX.Element;
   export function BiconGroup(): JSX.Element;
   export function BiconGroupSmall(): JSX.Element;
