@@ -5,7 +5,7 @@
   "types": "types/index.d.ts",
   "module": "dist/index.js",
   "scripts": {
-    "build": "babel jsx --out-dir dist",
+    "prebuild": "babel jsx --out-dir dist",
     "generate:types": "node index.js"
   },
   "devDependencies": {
@@ -15,9 +15,7 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.24.1",
-    "react": "^16.0.0"
-  },
-  "dependencies": {
-    "fs": "^0.0.1-security"
+    "react": "^16.0.0",
+    "webpack-node-externals": "^3.0.0"
   }
 }
