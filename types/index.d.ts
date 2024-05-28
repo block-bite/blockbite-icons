@@ -1,4 +1,5 @@
-declare module "blockbite-icons" {
+declare module 'blockbite-icons' {
+  export function .DS_Store(): JSX.Element;
   export function Accessibility(): JSX.Element;
   export function ActivityLog(): JSX.Element;
   export function AlignBaseline(): JSX.Element;

@@ -1,12 +1,13 @@
 {
   "name": "blockbite-icons",
-  "version": "4.1.9",
+  "version": "4.2.0",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "module": "dist/index.js",
   "scripts": {
     "prebuild": "babel jsx --out-dir dist",
-    "generate:types": "node index.js"
+    "generate:types": "node generate-types.js",
+    "build": "npm run generate:types && npm run prebuild"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
