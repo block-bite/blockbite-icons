@@ -1,6 +1,6 @@
 {
   "name": "blockbite-icons",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "module": "dist/index.js",
@@ -16,5 +16,8 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.24.1",
     "react": "^16.0.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
