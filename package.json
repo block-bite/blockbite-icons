@@ -6,7 +6,7 @@
   "module": "dist/index.js",
   "scripts": {
     "prebuild": "babel jsx --out-dir dist",
-    "generate:types": "node generate-types.js",
+    "generate": "node generate.js",
     "build": "npm run generate:types && npm run prebuild"
   },
   "devDependencies": {
