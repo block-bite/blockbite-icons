@@ -1,64 +1,32 @@
-const path = require("path");
 const fs = require("fs");
+const path = require("path");
 
-// Paths
-const iconsDir = path.join(__dirname, "jsx");
-const typesDir = path.join(__dirname, "types");
-const distIndexFile = path.join(__dirname, "dist", "index.js");
-const typesIndexFile = path.join(typesDir, "index.d.ts");
+const sourceDir = "./jsx";
+const destDir = "./dist";
 
-// Ensure types directory exists
-if (!fs.existsSync(typesDir)) {
-  fs.mkdirSync(typesDir);
-}
+const files = fs.readdirSync(sourceDir);
 
-fs.readdir(iconsDir, (err, files) => {
-  if (err) {
-    console.error("Could not list the directory.", err);
-    process.exit(1);
-  }
+files.forEach((file) => {
+  const sourcePath = path.join(sourceDir, file);
+  const destPath = path.join(destDir, file);
 
-  // Filter out .DS_Store and other unwanted files
-  const filteredFiles = files.filter((file) => !file.startsWith("."));
+  fs.copyFileSync(sourcePath, destPath);
+});
 
-  // Generate import statements for the dist/index.js file
-  const imports = filteredFiles.map((file) => {
-    const componentName = path.basename(file, path.extname(file));
-    return `import ${componentName} from './${componentName}';`;
-  });
+files.forEach((file) => {
+  const baseName = path.basename(file, ".jsx");
+  const jsFilePath = path.join(destDir, `${baseName}.js`);
+  const dtsFilePath = path.join(destDir, `${baseName}.d.ts`);
 
-  const exports = filteredFiles.map((file) => {
-    const componentName = path.basename(file, path.extname(file));
-    return `  ${componentName},`;
-  });
+  const jsContent = `import ${baseName} from './${file}';
+export default ${baseName}Icon;`;
 
-  const indexContent = `${imports.join("\n")}\n\nexport {\n${exports.join(
-    "\n"
-  )}\n};\n`;
+  const dtsContent = `declare module 'blockbite-icons/${destDir}/${baseName}' {
+    import React from 'react';
+    const ${baseName}: React.FC<React.SVGProps<SVGSVGElement>>;
+    export default ${baseName}Icon;
+}`;
 
-  fs.writeFile(distIndexFile, indexContent, (err) => {
-    if (err) {
-      console.error("Error writing dist/index.js", err);
-    } else {
-      console.log("dist/index.js has been generated");
-    }
-  });
-
-  // Generate type declarations for the types/index.d.ts file
-  const typeExports = filteredFiles.map((file) => {
-    const componentName = path.basename(file, path.extname(file));
-    return `  export function ${componentName}(): JSX.Element;`;
-  });
-
-  const typesContent = `declare module 'blockbite-icons' {\n${typeExports.join(
-    "\n"
-  )}\n}\n`;
-
-  fs.writeFile(typesIndexFile, typesContent, (err) => {
-    if (err) {
-      console.error("Error writing types/index.d.ts", err);
-    } else {
-      console.log("types/index.d.ts has been generated");
-    }
-  });
+  fs.writeFileSync(jsFilePath, jsContent);
+  fs.writeFileSync(dtsFilePath, dtsContent);
 });
