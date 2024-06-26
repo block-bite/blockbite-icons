@@ -15,7 +15,7 @@ const BiconPlus = (props) => (
       y1={13.8995}
       x2={2}
       y2={13.8995}
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
     />
     <line
@@ -23,7 +23,7 @@ const BiconPlus = (props) => (
       x2={24.0416}
       y2={-2}
       transform="matrix(-2.18557e-08 1 1 2.18557e-08 16.1422 2)"
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
     />
   </svg>

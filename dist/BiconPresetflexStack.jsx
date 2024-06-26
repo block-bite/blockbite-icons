@@ -11,8 +11,8 @@ const BiconPresetflexStack = (props) => (
     {...props}
   >
     <rect width={60} height={40} fill="white" />
-    <rect x={7} y={8} width={46} height={11} fill="black" />
-    <rect x={7} y={22} width={46} height={11} fill="black" />
+    <rect x={7} y={8} width={46} height={11} fill="currentColor" />
+    <rect x={7} y={22} width={46} height={11} fill="currentColor" />
   </svg>
 );
 

@@ -10,9 +10,16 @@ const BiconVertical = (props) => (
     role="img"
     {...props}
   >
-    <line x1={14} y1={8} x2={14} y2={22} stroke="black" strokeWidth={4} />
-    <path d="M14 0L21 8H7L14 0Z" fill="black" />
-    <path d="M14 28L7 20L21 20L14 28Z" fill="black" />
+    <line
+      x1={14}
+      y1={8}
+      x2={14}
+      y2={22}
+      stroke="currentColor"
+      strokeWidth={4}
+    />
+    <path d="M14 0L21 8H7L14 0Z" fill="currentColor" />
+    <path d="M14 28L7 20L21 20L14 28Z" fill="currentColor" />
   </svg>
 );
 

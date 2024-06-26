@@ -15,7 +15,7 @@ const BiconAlignYbetween = (props) => (
       y1={25}
       x2={14}
       y2={3}
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
       strokeLinecap="square"
     />
@@ -25,7 +25,7 @@ const BiconAlignYbetween = (props) => (
       width={7}
       height={18}
       transform="rotate(90 23 1)"
-      fill="black"
+      fill="currentColor"
     />
     <rect
       x={23}
@@ -33,7 +33,7 @@ const BiconAlignYbetween = (props) => (
       width={7}
       height={18}
       transform="rotate(90 23 20)"
-      fill="black"
+      fill="currentColor"
     />
   </svg>
 );

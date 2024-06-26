@@ -14,7 +14,7 @@ const Stop = (props) => (
       fillRule="evenodd"
       clipRule="evenodd"
       d="M3 2H12C12.5523 2 13 2.44772 13 3V12C13 12.5523 12.5523 13 12 13H3C2.44772 13 2 12.5523 2 12V3C2 2.44772 2.44772 2 3 2ZM3 3V12H12V3H3Z"
-      fill="black"
+      fill="currentColor"
     />
   </svg>
 );

@@ -10,7 +10,7 @@ const BiconGrid = (props) => (
     role="img"
     {...props}
   >
-    <rect width={50} height={50} fill="black" />
+    <rect width={50} height={50} fill="currentColor" />
     <rect x={9} y={10} width={13} height={13} fill="#F5F5F5" />
     <rect x={27} y={10} width={13} height={13} fill="#F5F5F5" />
     <rect x={9} y={28} width={13} height={13} fill="#F5F5F5" />

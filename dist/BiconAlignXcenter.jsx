@@ -15,11 +15,11 @@ const BiconAlignXcenter = (props) => (
       y1={14}
       x2={3}
       y2={14}
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
       strokeLinecap="square"
     />
-    <rect x={10} y={5} width={8} height={18} fill="black" />
+    <rect x={10} y={5} width={8} height={18} fill="currentColor" />
   </svg>
 );
 
