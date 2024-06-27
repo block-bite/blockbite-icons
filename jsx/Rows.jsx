@@ -14,7 +14,7 @@ const Rows = (props) => (
       fillRule="evenodd"
       clipRule="evenodd"
       d="M1 12.85L1 14.15H14V12.85H1ZM1 8.84997L1 10.15H14V8.84997H1ZM14 4.84998V6.14998H1L1 4.84998H14ZM1 0.849976L1 2.14997L14 2.14997V0.849976L1 0.849976Z"
-      fill="black"
+      fill="currentColor"
     />
   </svg>
 );

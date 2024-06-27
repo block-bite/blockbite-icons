@@ -10,7 +10,7 @@ const TriangleLeft = (props) => (
     role="img"
     {...props}
   >
-    <path d="M9.00003 11L4.50003 7.5L9.00003 4V11Z" fill="black" />
+    <path d="M9.00003 11L4.50003 7.5L9.00003 4V11Z" fill="currentColor" />
   </svg>
 );
 

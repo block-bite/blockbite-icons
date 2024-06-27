@@ -15,10 +15,10 @@ const BiconBottomLeft = (props) => (
       y1={20.5858}
       x2={24.5858}
       y2={4.58579}
-      stroke="black"
+      stroke="currentColor"
       strokeWidth={4}
     />
-    <path d="M3 13L15 25H3V13Z" fill="black" />
+    <path d="M3 13L15 25H3V13Z" fill="currentColor" />
   </svg>
 );
 

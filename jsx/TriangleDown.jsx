@@ -10,7 +10,7 @@ const TriangleDown = (props) => (
     role="img"
     {...props}
   >
-    <path d="M11 6L7.5 10.5L4 6H11Z" fill="black" />
+    <path d="M11 6L7.5 10.5L4 6H11Z" fill="currentColor" />
   </svg>
 );
 

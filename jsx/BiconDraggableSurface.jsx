@@ -10,7 +10,7 @@ const BiconDraggableSurface = (props) => (
     role="img"
     {...props}
   >
-    <rect width={50} height={50} fill="black" />
+    <rect width={50} height={50} fill="currentColor" />
     <path
       fillRule="evenodd"
       clipRule="evenodd"

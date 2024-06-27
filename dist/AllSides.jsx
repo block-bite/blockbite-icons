@@ -14,7 +14,7 @@ const AllSides = (props) => (
       fillRule="evenodd"
       clipRule="evenodd"
       d="M9.75 3H5.25L7.5 0.75L9.75 3ZM9.75 12H5.25L7.5 14.25L9.75 12ZM0.75 7.5L3 9.75V5.25L0.75 7.5ZM12 5.25V9.75L14.25 7.5L12 5.25Z"
-      fill="black"
+      fill="currentColor"
     />
   </svg>
 );

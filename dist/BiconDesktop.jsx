@@ -10,7 +10,7 @@ const BiconDesktop = (props) => (
     role="img"
     {...props}
   >
-    <rect x={10} y={22} width={8} height={3} fill="black" />
+    <rect x={10} y={22} width={8} height={3} fill="currentColor" />
     <rect
       x={26}
       y={4}
@@ -18,7 +18,7 @@ const BiconDesktop = (props) => (
       height={24}
       rx={2}
       transform="rotate(90 26 4)"
-      fill="black"
+      fill="currentColor"
     />
   </svg>
 );
