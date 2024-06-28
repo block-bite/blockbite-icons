@@ -14,7 +14,7 @@ const VercelLogo = (props) => (
       fillRule="evenodd"
       clipRule="evenodd"
       d="M0.599976 13H14.4L7.49998 1L0.599976 13ZM2.3285 12H12.6714L7.49998 3.00613L2.3285 12Z"
-      fill="currentColor"
+      fill="black"
     />
   </svg>
 );

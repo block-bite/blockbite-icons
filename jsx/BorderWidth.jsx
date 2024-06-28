@@ -14,7 +14,7 @@ const BorderWidth = (props) => (
       fillRule="evenodd"
       clipRule="evenodd"
       d="M14 3V4H1V3H14ZM14 6V8H1V6H14ZM1 10.25V12.75H14V10.25H1Z"
-      fill="currentColor"
+      fill="black"
     />
   </svg>
 );

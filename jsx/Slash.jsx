@@ -10,10 +10,7 @@ const Slash = (props) => (
     role="img"
     {...props}
   >
-    <path
-      d="M9.46582 1H10.8178L5.46074 14H4.10876L9.46582 1Z"
-      fill="currentColor"
-    />
+    <path d="M9.46582 1H10.8178L5.46074 14H4.10876L9.46582 1Z" fill="black" />
   </svg>
 );
 

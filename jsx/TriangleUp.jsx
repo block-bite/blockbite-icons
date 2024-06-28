@@ -10,7 +10,7 @@ const TriangleUp = (props) => (
     role="img"
     {...props}
   >
-    <path d="M11 9L7.5 4.5L4 9H11Z" fill="currentColor" />
+    <path d="M11 9L7.5 4.5L4 9H11Z" fill="black" />
   </svg>
 );
 

@@ -10,7 +10,7 @@ const BiconDraggableBlock = (props) => (
     role="img"
     {...props}
   >
-    <rect width={50} height={50} fill="currentColor" />
+    <rect width={50} height={50} fill="black" />
     <path
       fillRule="evenodd"
       clipRule="evenodd"
@@ -23,16 +23,16 @@ const BiconDraggableBlock = (props) => (
       y1={17.9357}
       x2={25.2482}
       y2={24.8107}
-      stroke="currentColor"
+      stroke="black"
       strokeWidth={3}
     />
     <path
       d="M36.2188 13.7813L35.875 21.6875L28.3125 14.125L36.2188 13.7813Z"
-      fill="currentColor"
+      fill="black"
     />
     <path
       d="M21.7812 28.2187L22.125 20.3125L29.6875 27.875L21.7812 28.2187Z"
-      fill="currentColor"
+      fill="black"
     />
   </svg>
 );

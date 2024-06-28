@@ -15,7 +15,7 @@ const BiconAlignYstart = (props) => (
       y1={25}
       x2={14}
       y2={3}
-      stroke="currentColor"
+      stroke="black"
       strokeWidth={4}
       strokeLinecap="square"
     />
@@ -25,7 +25,7 @@ const BiconAlignYstart = (props) => (
       width={8}
       height={18}
       transform="rotate(90 23 1)"
-      fill="currentColor"
+      fill="black"
     />
   </svg>
 );

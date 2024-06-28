@@ -14,7 +14,7 @@ const Square = (props) => (
       fillRule="evenodd"
       clipRule="evenodd"
       d="M14 1V14H1V1H14ZM2 13H13V2H2V13Z"
-      fill="currentColor"
+      fill="black"
     />
   </svg>
 );
