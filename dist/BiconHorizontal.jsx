@@ -11,19 +11,9 @@ const BiconHorizontal = (props) => (
     {...props}
   >
     <g clipPath="url(#clip0_283_152)">
-      <line
-        x1={20}
-        y1={14}
-        x2={6}
-        y2={14}
-        stroke="currentColor"
-        strokeWidth={4}
-      />
+      <line x1={20} y1={14} x2={6} y2={14} stroke="currentColor" strokeWidth={4} />
       <path d="M28 14L20 21L20 7.00001L28 14Z" fill="currentColor" />
-      <path
-        d="M9.17941e-07 14L8 6.99999L8 21L9.17941e-07 14Z"
-        fill="currentColor"
-      />
+      <path d="M9.17941e-07 14L8 6.99999L8 21L9.17941e-07 14Z" fill="currentColor" />
     </g>
     <defs>
       <clipPath id="clip0_283_152">

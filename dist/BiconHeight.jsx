@@ -10,23 +10,9 @@ const BiconHeight = (props) => (
     role="img"
     {...props}
   >
-    <line
-      x1={14}
-      y1={3}
-      x2={14}
-      y2={24}
-      stroke="currentColor"
-      strokeWidth={4}
-    />
+    <line x1={14} y1={3} x2={14} y2={24} stroke="currentColor" strokeWidth={4} />
     <line x1={20} y1={2} x2={8} y2={2} stroke="currentColor" strokeWidth={4} />
-    <line
-      x1={20}
-      y1={26}
-      x2={8}
-      y2={26}
-      stroke="currentColor"
-      strokeWidth={4}
-    />
+    <line x1={20} y1={26} x2={8} y2={26} stroke="currentColor" strokeWidth={4} />
   </svg>
 );
 
