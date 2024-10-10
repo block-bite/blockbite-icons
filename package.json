@@ -1,6 +1,6 @@
 {
   "name": "blockbite-icons",
-  "version": "4.3.4",
+  "version": "4.3.5",
   "main": "index.js",
   "scripts": {
     "prebuild": "babel jsx --out-dir dist",
