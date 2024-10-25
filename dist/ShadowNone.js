@@ -1,2 +1,2 @@
 import ShadowNone from './ShadowNone.jsx';
-export default ShadowNoneIcon;
+export default ShadowNone;

@@ -1,2 +1,2 @@
 import PieChart from './PieChart.jsx';
-export default PieChartIcon;
+export default PieChart;

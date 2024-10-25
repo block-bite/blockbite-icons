@@ -1,2 +1,2 @@
 import LightningBolt from './LightningBolt.jsx';
-export default LightningBoltIcon;
+export default LightningBolt;

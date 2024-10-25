@@ -1,2 +1,2 @@
 import Clock from './Clock.jsx';
-export default ClockIcon;
+export default Clock;

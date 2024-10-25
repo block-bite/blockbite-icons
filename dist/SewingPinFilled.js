@@ -1,2 +1,2 @@
 import SewingPinFilled from './SewingPinFilled.jsx';
-export default SewingPinFilledIcon;
+export default SewingPinFilled;

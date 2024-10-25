@@ -1,2 +1,2 @@
 import PinRight from './PinRight.jsx';
-export default PinRightIcon;
+export default PinRight;

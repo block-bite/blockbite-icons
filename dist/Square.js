@@ -1,2 +1,2 @@
 import Square from './Square.jsx';
-export default SquareIcon;
+export default Square;

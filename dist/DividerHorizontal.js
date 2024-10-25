@@ -1,2 +1,2 @@
 import DividerHorizontal from './DividerHorizontal.jsx';
-export default DividerHorizontalIcon;
+export default DividerHorizontal;

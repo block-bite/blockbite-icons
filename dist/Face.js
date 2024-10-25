@@ -1,2 +1,2 @@
 import Face from './Face.jsx';
-export default FaceIcon;
+export default Face;

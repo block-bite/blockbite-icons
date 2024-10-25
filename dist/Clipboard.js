@@ -1,2 +1,2 @@
 import Clipboard from './Clipboard.jsx';
-export default ClipboardIcon;
+export default Clipboard;

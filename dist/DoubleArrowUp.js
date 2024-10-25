@@ -1,2 +1,2 @@
 import DoubleArrowUp from './DoubleArrowUp.jsx';
-export default DoubleArrowUpIcon;
+export default DoubleArrowUp;

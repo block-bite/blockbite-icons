@@ -1,2 +1,2 @@
 import Overline from './Overline.jsx';
-export default OverlineIcon;
+export default Overline;

@@ -1,2 +1,2 @@
 import Archive from './Archive.jsx';
-export default ArchiveIcon;
+export default Archive;

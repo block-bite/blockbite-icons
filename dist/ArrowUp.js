@@ -1,2 +1,2 @@
 import ArrowUp from './ArrowUp.jsx';
-export default ArrowUpIcon;
+export default ArrowUp;

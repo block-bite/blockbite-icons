@@ -1,2 +1,2 @@
 import Target from './Target.jsx';
-export default TargetIcon;
+export default Target;

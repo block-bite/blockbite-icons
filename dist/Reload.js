@@ -1,2 +1,2 @@
 import Reload from './Reload.jsx';
-export default ReloadIcon;
+export default Reload;

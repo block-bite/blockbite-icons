@@ -1,2 +1,2 @@
 import Plus from './Plus.jsx';
-export default PlusIcon;
+export default Plus;

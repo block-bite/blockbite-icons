@@ -1,2 +1,2 @@
 import StarFilled from './StarFilled.jsx';
-export default StarFilledIcon;
+export default StarFilled;

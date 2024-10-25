@@ -1,2 +1,2 @@
 import Sun from './Sun.jsx';
-export default SunIcon;
+export default Sun;

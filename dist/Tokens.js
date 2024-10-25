@@ -1,2 +1,2 @@
 import Tokens from './Tokens.jsx';
-export default TokensIcon;
+export default Tokens;

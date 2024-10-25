@@ -1,2 +1,2 @@
 import Enter from './Enter.jsx';
-export default EnterIcon;
+export default Enter;

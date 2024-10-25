@@ -1,2 +1,2 @@
 import Backpack from './Backpack.jsx';
-export default BackpackIcon;
+export default Backpack;

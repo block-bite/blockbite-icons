@@ -1,2 +1,2 @@
 import BiconDraggableSurface from './BiconDraggableSurface.jsx';
-export default BiconDraggableSurfaceIcon;
+export default BiconDraggableSurface;

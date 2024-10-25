@@ -1,2 +1,2 @@
 import TwitterLogo from './TwitterLogo.jsx';
-export default TwitterLogoIcon;
+export default TwitterLogo;

@@ -1,2 +1,2 @@
 import ExternalLink from './ExternalLink.jsx';
-export default ExternalLinkIcon;
+export default ExternalLink;

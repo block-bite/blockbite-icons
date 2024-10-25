@@ -1,2 +1,2 @@
 import RotateCounterClockwise from './RotateCounterClockwise.jsx';
-export default RotateCounterClockwiseIcon;
+export default RotateCounterClockwise;

@@ -1,2 +1,2 @@
 import Rows from './Rows.jsx';
-export default RowsIcon;
+export default Rows;

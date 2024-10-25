@@ -1,2 +1,2 @@
 import CrumpledPaper from './CrumpledPaper.jsx';
-export default CrumpledPaperIcon;
+export default CrumpledPaper;

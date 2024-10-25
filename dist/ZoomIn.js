@@ -1,2 +1,2 @@
 import ZoomIn from './ZoomIn.jsx';
-export default ZoomInIcon;
+export default ZoomIn;

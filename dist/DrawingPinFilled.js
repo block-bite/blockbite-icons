@@ -1,2 +1,2 @@
 import DrawingPinFilled from './DrawingPinFilled.jsx';
-export default DrawingPinFilledIcon;
+export default DrawingPinFilled;

@@ -1,2 +1,2 @@
 import ShadowInner from './ShadowInner.jsx';
-export default ShadowInnerIcon;
+export default ShadowInner;

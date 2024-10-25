@@ -1,2 +1,2 @@
 import PinLeft from './PinLeft.jsx';
-export default PinLeftIcon;
+export default PinLeft;

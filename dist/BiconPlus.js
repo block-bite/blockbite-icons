@@ -1,2 +1,2 @@
 import BiconPlus from './BiconPlus.jsx';
-export default BiconPlusIcon;
+export default BiconPlus;

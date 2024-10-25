@@ -1,2 +1,2 @@
 import Columns from './Columns.jsx';
-export default ColumnsIcon;
+export default Columns;

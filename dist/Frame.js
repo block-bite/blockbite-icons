@@ -1,2 +1,2 @@
 import Frame from './Frame.jsx';
-export default FrameIcon;
+export default Frame;

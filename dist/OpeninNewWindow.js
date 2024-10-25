@@ -1,2 +1,2 @@
 import OpeninNewWindow from './OpeninNewWindow.jsx';
-export default OpeninNewWindowIcon;
+export default OpeninNewWindow;

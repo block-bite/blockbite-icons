@@ -1,2 +1,2 @@
 import CaretLeft from './CaretLeft.jsx';
-export default CaretLeftIcon;
+export default CaretLeft;

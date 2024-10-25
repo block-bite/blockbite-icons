@@ -1,2 +1,2 @@
 import AlignCenterHorizontally from './AlignCenterHorizontally.jsx';
-export default AlignCenterHorizontallyIcon;
+export default AlignCenterHorizontally;

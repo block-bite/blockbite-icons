@@ -1,2 +1,2 @@
 import Margin from './Margin.jsx';
-export default MarginIcon;
+export default Margin;

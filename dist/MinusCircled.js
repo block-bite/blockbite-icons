@@ -1,2 +1,2 @@
 import MinusCircled from './MinusCircled.jsx';
-export default MinusCircledIcon;
+export default MinusCircled;

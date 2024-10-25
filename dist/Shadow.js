@@ -1,2 +1,2 @@
 import Shadow from './Shadow.jsx';
-export default ShadowIcon;
+export default Shadow;

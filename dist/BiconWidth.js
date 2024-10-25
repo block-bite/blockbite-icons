@@ -1,2 +1,2 @@
 import BiconWidth from './BiconWidth.jsx';
-export default BiconWidthIcon;
+export default BiconWidth;

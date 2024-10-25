@@ -1,2 +1,2 @@
 import Code from './Code.jsx';
-export default CodeIcon;
+export default Code;

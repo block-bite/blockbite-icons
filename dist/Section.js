@@ -1,2 +1,2 @@
 import Section from './Section.jsx';
-export default SectionIcon;
+export default Section;

@@ -1,2 +1,2 @@
 import NotionLogo from './NotionLogo.jsx';
-export default NotionLogoIcon;
+export default NotionLogo;

@@ -1,2 +1,2 @@
 import TextAlignJustify from './TextAlignJustify.jsx';
-export default TextAlignJustifyIcon;
+export default TextAlignJustify;

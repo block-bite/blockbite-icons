@@ -1,2 +1,2 @@
 import ArrowTopRight from './ArrowTopRight.jsx';
-export default ArrowTopRightIcon;
+export default ArrowTopRight;

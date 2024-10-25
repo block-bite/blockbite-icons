@@ -1,2 +1,2 @@
 import QuestionMarkCircled from './QuestionMarkCircled.jsx';
-export default QuestionMarkCircledIcon;
+export default QuestionMarkCircled;

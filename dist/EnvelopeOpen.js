@@ -1,2 +1,2 @@
 import EnvelopeOpen from './EnvelopeOpen.jsx';
-export default EnvelopeOpenIcon;
+export default EnvelopeOpen;

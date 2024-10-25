@@ -1,2 +1,2 @@
 import StitchesLogo from './StitchesLogo.jsx';
-export default StitchesLogoIcon;
+export default StitchesLogo;

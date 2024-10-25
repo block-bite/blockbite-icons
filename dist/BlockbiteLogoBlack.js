@@ -1,2 +1,2 @@
 import BlockbiteLogoBlack from './BlockbiteLogoBlack.jsx';
-export default BlockbiteLogoBlackIcon;
+export default BlockbiteLogoBlack;

@@ -1,2 +1,2 @@
 import Update from './Update.jsx';
-export default UpdateIcon;
+export default Update;

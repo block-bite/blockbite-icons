@@ -1,2 +1,2 @@
 import SpaceEvenlyHorizontally from './SpaceEvenlyHorizontally.jsx';
-export default SpaceEvenlyHorizontallyIcon;
+export default SpaceEvenlyHorizontally;

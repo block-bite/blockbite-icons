@@ -1,2 +1,2 @@
 import LetterCaseToggle from './LetterCaseToggle.jsx';
-export default LetterCaseToggleIcon;
+export default LetterCaseToggle;

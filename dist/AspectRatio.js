@@ -1,2 +1,2 @@
 import AspectRatio from './AspectRatio.jsx';
-export default AspectRatioIcon;
+export default AspectRatio;

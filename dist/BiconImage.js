@@ -1,2 +1,2 @@
 import BiconImage from './BiconImage.jsx';
-export default BiconImageIcon;
+export default BiconImage;

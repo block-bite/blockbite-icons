@@ -1,2 +1,2 @@
 import Camera from './Camera.jsx';
-export default CameraIcon;
+export default Camera;

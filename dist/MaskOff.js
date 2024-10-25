@@ -1,2 +1,2 @@
 import MaskOff from './MaskOff.jsx';
-export default MaskOffIcon;
+export default MaskOff;

@@ -1,2 +1,2 @@
 import MagnifyingGlass from './MagnifyingGlass.jsx';
-export default MagnifyingGlassIcon;
+export default MagnifyingGlass;

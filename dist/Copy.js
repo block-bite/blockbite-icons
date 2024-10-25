@@ -1,2 +1,2 @@
 import Copy from './Copy.jsx';
-export default CopyIcon;
+export default Copy;

@@ -1,2 +1,2 @@
 import FileMinus from './FileMinus.jsx';
-export default FileMinusIcon;
+export default FileMinus;

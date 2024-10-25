@@ -1,2 +1,2 @@
 import Trash from './Trash.jsx';
-export default TrashIcon;
+export default Trash;

@@ -1,2 +1,2 @@
 import LetterSpacing from './LetterSpacing.jsx';
-export default LetterSpacingIcon;
+export default LetterSpacing;

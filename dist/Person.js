@@ -1,2 +1,2 @@
 import Person from './Person.jsx';
-export default PersonIcon;
+export default Person;

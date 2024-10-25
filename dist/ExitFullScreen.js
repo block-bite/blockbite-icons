@@ -1,2 +1,2 @@
 import ExitFullScreen from './ExitFullScreen.jsx';
-export default ExitFullScreenIcon;
+export default ExitFullScreen;

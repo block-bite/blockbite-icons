@@ -1,2 +1,2 @@
 import PlusCircled from './PlusCircled.jsx';
-export default PlusCircledIcon;
+export default PlusCircled;

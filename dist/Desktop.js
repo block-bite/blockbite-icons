@@ -1,2 +1,2 @@
 import Desktop from './Desktop.jsx';
-export default DesktopIcon;
+export default Desktop;

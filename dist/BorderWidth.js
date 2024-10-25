@@ -1,2 +1,2 @@
 import BorderWidth from './BorderWidth.jsx';
-export default BorderWidthIcon;
+export default BorderWidth;

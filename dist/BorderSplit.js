@@ -1,2 +1,2 @@
 import BorderSplit from './BorderSplit.jsx';
-export default BorderSplitIcon;
+export default BorderSplit;

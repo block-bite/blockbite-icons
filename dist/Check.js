@@ -1,2 +1,2 @@
 import Check from './Check.jsx';
-export default CheckIcon;
+export default Check;

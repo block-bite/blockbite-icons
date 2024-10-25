@@ -1,2 +1,2 @@
 import DoubleArrowLeft from './DoubleArrowLeft.jsx';
-export default DoubleArrowLeftIcon;
+export default DoubleArrowLeft;

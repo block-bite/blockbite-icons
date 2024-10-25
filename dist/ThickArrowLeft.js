@@ -1,2 +1,2 @@
 import ThickArrowLeft from './ThickArrowLeft.jsx';
-export default ThickArrowLeftIcon;
+export default ThickArrowLeft;

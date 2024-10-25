@@ -1,2 +1,2 @@
 import Grid from './Grid.jsx';
-export default GridIcon;
+export default Grid;

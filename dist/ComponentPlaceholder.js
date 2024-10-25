@@ -1,2 +1,2 @@
 import ComponentPlaceholder from './ComponentPlaceholder.jsx';
-export default ComponentPlaceholderIcon;
+export default ComponentPlaceholder;

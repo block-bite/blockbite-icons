@@ -1,2 +1,2 @@
 import MixerVertical from './MixerVertical.jsx';
-export default MixerVerticalIcon;
+export default MixerVertical;

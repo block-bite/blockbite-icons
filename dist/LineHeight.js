@@ -1,2 +1,2 @@
 import LineHeight from './LineHeight.jsx';
-export default LineHeightIcon;
+export default LineHeight;

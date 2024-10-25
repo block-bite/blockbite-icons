@@ -1,2 +1,2 @@
 import TextAlignLeft from './TextAlignLeft.jsx';
-export default TextAlignLeftIcon;
+export default TextAlignLeft;

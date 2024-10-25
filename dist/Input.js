@@ -1,2 +1,2 @@
 import Input from './Input.jsx';
-export default InputIcon;
+export default Input;

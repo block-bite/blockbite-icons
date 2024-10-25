@@ -1,2 +1,2 @@
 import FigmaLogo from './FigmaLogo.jsx';
-export default FigmaLogoIcon;
+export default FigmaLogo;

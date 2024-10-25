@@ -1,2 +1,2 @@
 import TriangleLeft from './TriangleLeft.jsx';
-export default TriangleLeftIcon;
+export default TriangleLeft;

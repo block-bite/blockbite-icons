@@ -1,2 +1,2 @@
 import BiconRotateLeft from './BiconRotateLeft.jsx';
-export default BiconRotateLeftIcon;
+export default BiconRotateLeft;

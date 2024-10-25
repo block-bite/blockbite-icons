@@ -1,2 +1,2 @@
 import MinSize from './MinSize.jsx';
-export default MinSizeIcon;
+export default MinSize;

@@ -1,2 +1,2 @@
 import Group from './Group.jsx';
-export default GroupIcon;
+export default Group;

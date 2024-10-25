@@ -1,2 +1,2 @@
 import Stack from './Stack.jsx';
-export default StackIcon;
+export default Stack;

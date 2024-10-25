@@ -1,2 +1,2 @@
 import BiconLink from './BiconLink.jsx';
-export default BiconLinkIcon;
+export default BiconLink;

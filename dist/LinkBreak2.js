@@ -1,2 +1,2 @@
 import LinkBreak2 from './LinkBreak2.jsx';
-export default LinkBreak2Icon;
+export default LinkBreak2;

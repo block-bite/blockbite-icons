@@ -1,2 +1,2 @@
 import HobbyKnife from './HobbyKnife.jsx';
-export default HobbyKnifeIcon;
+export default HobbyKnife;

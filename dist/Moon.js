@@ -1,2 +1,2 @@
 import Moon from './Moon.jsx';
-export default MoonIcon;
+export default Moon;

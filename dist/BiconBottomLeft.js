@@ -1,2 +1,2 @@
 import BiconBottomLeft from './BiconBottomLeft.jsx';
-export default BiconBottomLeftIcon;
+export default BiconBottomLeft;

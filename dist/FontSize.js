@@ -1,2 +1,2 @@
 import FontSize from './FontSize.jsx';
-export default FontSizeIcon;
+export default FontSize;

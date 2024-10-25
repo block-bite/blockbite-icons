@@ -1,2 +1,2 @@
 import MaxSize from './MaxSize.jsx';
-export default MaxSizeIcon;
+export default MaxSize;

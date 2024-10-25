@@ -1,2 +1,2 @@
 import Height from './Height.jsx';
-export default HeightIcon;
+export default Height;

@@ -1,2 +1,2 @@
 import DiscordLogo from './DiscordLogo.jsx';
-export default DiscordLogoIcon;
+export default DiscordLogo;

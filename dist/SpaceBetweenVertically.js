@@ -1,2 +1,2 @@
 import SpaceBetweenVertically from './SpaceBetweenVertically.jsx';
-export default SpaceBetweenVerticallyIcon;
+export default SpaceBetweenVertically;

@@ -1,2 +1,2 @@
 import CaretSort from './CaretSort.jsx';
-export default CaretSortIcon;
+export default CaretSort;

@@ -1,2 +1,2 @@
 import InfoCircled from './InfoCircled.jsx';
-export default InfoCircledIcon;
+export default InfoCircled;

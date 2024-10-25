@@ -1,2 +1,2 @@
 import DotFilled from './DotFilled.jsx';
-export default DotFilledIcon;
+export default DotFilled;

@@ -1,2 +1,2 @@
 import FontBold from './FontBold.jsx';
-export default FontBoldIcon;
+export default FontBold;

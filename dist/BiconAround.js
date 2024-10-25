@@ -1,2 +1,2 @@
 import BiconAround from './BiconAround.jsx';
-export default BiconAroundIcon;
+export default BiconAround;

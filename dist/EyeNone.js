@@ -1,2 +1,2 @@
 import EyeNone from './EyeNone.jsx';
-export default EyeNoneIcon;
+export default EyeNone;

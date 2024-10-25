@@ -1,2 +1,2 @@
 import InstagramLogo from './InstagramLogo.jsx';
-export default InstagramLogoIcon;
+export default InstagramLogo;

@@ -1,2 +1,2 @@
 import MixerHorizontal from './MixerHorizontal.jsx';
-export default MixerHorizontalIcon;
+export default MixerHorizontal;

@@ -1,2 +1,2 @@
 import Switch from './Switch.jsx';
-export default SwitchIcon;
+export default Switch;

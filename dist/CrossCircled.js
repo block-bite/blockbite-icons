@@ -1,2 +1,2 @@
 import CrossCircled from './CrossCircled.jsx';
-export default CrossCircledIcon;
+export default CrossCircled;

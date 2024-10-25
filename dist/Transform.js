@@ -1,2 +1,2 @@
 import Transform from './Transform.jsx';
-export default TransformIcon;
+export default Transform;

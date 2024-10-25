@@ -1,2 +1,2 @@
 import PinBottom from './PinBottom.jsx';
-export default PinBottomIcon;
+export default PinBottom;

@@ -1,2 +1,2 @@
 import BiconAlignXend from './BiconAlignXend.jsx';
-export default BiconAlignXendIcon;
+export default BiconAlignXend;

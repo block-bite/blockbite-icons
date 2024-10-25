@@ -1,2 +1,2 @@
 import DevicesPortrait from './DevicesPortrait.jsx';
-export default DevicesPortraitIcon;
+export default DevicesPortrait;

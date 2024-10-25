@@ -1,2 +1,2 @@
 import Cube from './Cube.jsx';
-export default CubeIcon;
+export default Cube;

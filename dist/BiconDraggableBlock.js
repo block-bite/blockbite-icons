@@ -1,2 +1,2 @@
 import BiconDraggableBlock from './BiconDraggableBlock.jsx';
-export default BiconDraggableBlockIcon;
+export default BiconDraggableBlock;

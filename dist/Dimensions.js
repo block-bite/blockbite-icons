@@ -1,2 +1,2 @@
 import Dimensions from './Dimensions.jsx';
-export default DimensionsIcon;
+export default Dimensions;

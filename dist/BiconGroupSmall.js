@@ -1,2 +1,2 @@
 import BiconGroupSmall from './BiconGroupSmall.jsx';
-export default BiconGroupSmallIcon;
+export default BiconGroupSmall;

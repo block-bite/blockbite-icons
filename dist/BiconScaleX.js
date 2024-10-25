@@ -1,2 +1,2 @@
 import BiconScaleX from './BiconScaleX.jsx';
-export default BiconScaleXIcon;
+export default BiconScaleX;

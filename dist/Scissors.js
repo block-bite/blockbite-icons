@@ -1,2 +1,2 @@
 import Scissors from './Scissors.jsx';
-export default ScissorsIcon;
+export default Scissors;

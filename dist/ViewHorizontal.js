@@ -1,2 +1,2 @@
 import ViewHorizontal from './ViewHorizontal.jsx';
-export default ViewHorizontalIcon;
+export default ViewHorizontal;

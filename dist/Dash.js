@@ -1,2 +1,2 @@
 import Dash from './Dash.jsx';
-export default DashIcon;
+export default Dash;

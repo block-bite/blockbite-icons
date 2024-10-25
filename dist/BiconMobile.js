@@ -1,2 +1,2 @@
 import BiconMobile from './BiconMobile.jsx';
-export default BiconMobileIcon;
+export default BiconMobile;

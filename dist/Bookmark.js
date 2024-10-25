@@ -1,2 +1,2 @@
 import Bookmark from './Bookmark.jsx';
-export default BookmarkIcon;
+export default Bookmark;

@@ -1,2 +1,2 @@
 import Laptop from './Laptop.jsx';
-export default LaptopIcon;
+export default Laptop;

@@ -1,2 +1,2 @@
 import BiconLeft from './BiconLeft.jsx';
-export default BiconLeftIcon;
+export default BiconLeft;

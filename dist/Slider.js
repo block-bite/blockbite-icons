@@ -1,2 +1,2 @@
 import Slider from './Slider.jsx';
-export default SliderIcon;
+export default Slider;

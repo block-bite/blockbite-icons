@@ -1,2 +1,2 @@
 import BiconTopRight from './BiconTopRight.jsx';
-export default BiconTopRightIcon;
+export default BiconTopRight;

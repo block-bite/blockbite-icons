@@ -1,2 +1,2 @@
 import Link1 from './Link1.jsx';
-export default Link1Icon;
+export default Link1;

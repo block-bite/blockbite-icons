@@ -1,2 +1,2 @@
 import RowSpacing from './RowSpacing.jsx';
-export default RowSpacingIcon;
+export default RowSpacing;

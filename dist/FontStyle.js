@@ -1,2 +1,2 @@
 import FontStyle from './FontStyle.jsx';
-export default FontStyleIcon;
+export default FontStyle;

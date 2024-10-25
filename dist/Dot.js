@@ -1,2 +1,2 @@
 import Dot from './Dot.jsx';
-export default DotIcon;
+export default Dot;

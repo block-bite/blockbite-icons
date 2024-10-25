@@ -1,2 +1,2 @@
 import FramerLogo from './FramerLogo.jsx';
-export default FramerLogoIcon;
+export default FramerLogo;

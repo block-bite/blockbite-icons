@@ -1,2 +1,2 @@
 import BiconDesignerSmall from './BiconDesignerSmall.jsx';
-export default BiconDesignerSmallIcon;
+export default BiconDesignerSmall;

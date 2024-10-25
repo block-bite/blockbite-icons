@@ -1,2 +1,2 @@
 import BiconSection from './BiconSection.jsx';
-export default BiconSectionIcon;
+export default BiconSection;

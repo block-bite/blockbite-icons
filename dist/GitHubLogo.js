@@ -1,2 +1,2 @@
 import GitHubLogo from './GitHubLogo.jsx';
-export default GitHubLogoIcon;
+export default GitHubLogo;

@@ -1,2 +1,2 @@
 import Avatar from './Avatar.jsx';
-export default AvatarIcon;
+export default Avatar;

@@ -1,2 +1,2 @@
 import Mix from './Mix.jsx';
-export default MixIcon;
+export default Mix;

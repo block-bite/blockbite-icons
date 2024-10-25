@@ -1,2 +1,2 @@
 import BiconAll from './BiconAll.jsx';
-export default BiconAllIcon;
+export default BiconAll;

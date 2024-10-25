@@ -1,2 +1,2 @@
 import SpaceEvenlyVertically from './SpaceEvenlyVertically.jsx';
-export default SpaceEvenlyVerticallyIcon;
+export default SpaceEvenlyVertically;

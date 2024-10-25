@@ -1,2 +1,2 @@
 import Table from './Table.jsx';
-export default TableIcon;
+export default Table;

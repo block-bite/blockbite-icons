@@ -1,2 +1,2 @@
 import Loop from './Loop.jsx';
-export default LoopIcon;
+export default Loop;

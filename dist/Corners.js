@@ -1,2 +1,2 @@
 import Corners from './Corners.jsx';
-export default CornersIcon;
+export default Corners;

@@ -1,2 +1,2 @@
 import Padding from './Padding.jsx';
-export default PaddingIcon;
+export default Padding;

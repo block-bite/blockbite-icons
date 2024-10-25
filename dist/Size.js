@@ -1,2 +1,2 @@
 import Size from './Size.jsx';
-export default SizeIcon;
+export default Size;

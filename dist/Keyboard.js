@@ -1,2 +1,2 @@
 import Keyboard from './Keyboard.jsx';
-export default KeyboardIcon;
+export default Keyboard;

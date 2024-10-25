@@ -1,2 +1,2 @@
 import LapTimer from './LapTimer.jsx';
-export default LapTimerIcon;
+export default LapTimer;

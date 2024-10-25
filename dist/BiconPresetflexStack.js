@@ -1,2 +1,2 @@
 import BiconPresetflexStack from './BiconPresetflexStack.jsx';
-export default BiconPresetflexStackIcon;
+export default BiconPresetflexStack;

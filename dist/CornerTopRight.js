@@ -1,2 +1,2 @@
 import CornerTopRight from './CornerTopRight.jsx';
-export default CornerTopRightIcon;
+export default CornerTopRight;

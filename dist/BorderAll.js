@@ -1,2 +1,2 @@
 import BorderAll from './BorderAll.jsx';
-export default BorderAllIcon;
+export default BorderAll;

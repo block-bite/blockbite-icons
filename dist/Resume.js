@@ -1,2 +1,2 @@
 import Resume from './Resume.jsx';
-export default ResumeIcon;
+export default Resume;

@@ -1,2 +1,2 @@
 import IdCard from './IdCard.jsx';
-export default IdCardIcon;
+export default IdCard;

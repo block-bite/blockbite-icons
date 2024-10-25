@@ -1,2 +1,2 @@
 import BiconVertical from './BiconVertical.jsx';
-export default BiconVerticalIcon;
+export default BiconVertical;

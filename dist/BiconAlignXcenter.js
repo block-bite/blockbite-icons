@@ -1,2 +1,2 @@
 import BiconAlignXcenter from './BiconAlignXcenter.jsx';
-export default BiconAlignXcenterIcon;
+export default BiconAlignXcenter;

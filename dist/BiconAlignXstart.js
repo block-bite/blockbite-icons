@@ -1,2 +1,2 @@
 import BiconAlignXstart from './BiconAlignXstart.jsx';
-export default BiconAlignXstartIcon;
+export default BiconAlignXstart;

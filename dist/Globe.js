@@ -1,2 +1,2 @@
 import Globe from './Globe.jsx';
-export default GlobeIcon;
+export default Globe;

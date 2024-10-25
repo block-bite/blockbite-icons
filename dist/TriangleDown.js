@@ -1,2 +1,2 @@
 import TriangleDown from './TriangleDown.jsx';
-export default TriangleDownIcon;
+export default TriangleDown;

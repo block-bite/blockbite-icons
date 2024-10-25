@@ -1,2 +1,2 @@
 import HeartFilled from './HeartFilled.jsx';
-export default HeartFilledIcon;
+export default HeartFilled;

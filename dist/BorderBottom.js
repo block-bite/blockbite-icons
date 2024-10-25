@@ -1,2 +1,2 @@
 import BorderBottom from './BorderBottom.jsx';
-export default BorderBottomIcon;
+export default BorderBottom;
