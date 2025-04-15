@@ -1,4 +1,4 @@
-declare module 'blockbite-icons/dist/DragHandleVertical' {
+declare module '@blockbite/icons/dist/DragHandleVertical' {
     import React from 'react';
     const DragHandleVertical: React.FC<React.SVGProps<SVGSVGElement>>;
     export default DragHandleVertical;
