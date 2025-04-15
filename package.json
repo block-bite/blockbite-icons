@@ -1,15 +1,10 @@
 {
   "name": "@blockbite/icons",
   "version": "4.4.5",
-  "author": "block-bite.com",
   "main": "index.js",
   "scripts": {
     "prebuild": "babel jsx --out-dir dist",
     "generate": "node generate.js"
-  },
-  "exports": {
-    ".": "./dist/index.js",
-    "./*": "./dist/*.js"
   },
   "typesVersions": {
     "*": {
