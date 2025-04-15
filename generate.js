@@ -21,7 +21,7 @@ files.forEach((file) => {
   const jsContent = `import ${baseName} from './${file}';
 export default ${baseName};`;
 
-  const dtsContent = `declare module 'blockbite-icons/dist/${baseName}' {
+  const dtsContent = `declare module '@blockbite/icons/dist/${baseName}' {
     import React from 'react';
     const ${baseName}: React.FC<React.SVGProps<SVGSVGElement>>;
     export default ${baseName};
