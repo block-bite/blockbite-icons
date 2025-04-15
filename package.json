@@ -1,11 +1,15 @@
 {
-  "name": "blockbite-icons",
+  "name": "@blockbite/icons",
   "version": "4.4.1",
+  "author": "block-bite.com",
   "main": "index.js",
   "scripts": {
     "prebuild": "babel jsx --out-dir dist",
     "generate": "node generate.js",
     "build": "npm run build"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
