@@ -1,6 +1,6 @@
 {
   "name": "@blockbite/icons",
-  "version": "4.4.4",
+  "version": "4.4.5",
   "author": "block-bite.com",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,11 @@
   "exports": {
     ".": "./dist/index.js",
     "./*": "./dist/*.js"
+  },
+  "typesVersions": {
+    "*": {
+      "dist/*": ["dist/*.d.ts"]
+    }
   },
   "publishConfig": {
     "access": "public"
